@@ -1,4 +1,4 @@
-[![ProfileBanner](https://github.com/Davekibh/Davekibh/blob/main/Images/Banner%20Image.png)](https://Davekibh.github.io)
+[![ProfileBanner](https://i.ibb.co/3y2h9XW/Black-Modern-Blogger-You-Tube-Channel-Art.jpg)](https://ismailjosim.netlify.app/)
 
 ### About me🧑
 
