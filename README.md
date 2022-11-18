@@ -2,9 +2,10 @@
 
 ### About me🧑
 
-I am Computer Engineering student and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
-I have done Internship as a FullStack Developer as well as Website Tester.<br/>
-I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
+I am a Front-end developer with a keen knowledge of programming.<br/>
+I'm passionate about learning new things and sharing with others. <br/>
+I love to solve both coding & Real world problems throughout my work. <br/>
+I like to explore new technologies and develop software solutions and quick hacks.
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
