@@ -25,22 +25,22 @@
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/ismailjosim/">
-   <img src="./images/linkedin (1).png" width="40px">
+   <img src="https://github.com/ismailjosim/ismailjosim/blob/main/linkedin%20(1).png" width="40px">
    </a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/ismailjosim">
-  <img width="40px" src="./images/github.png">
+  <img width="40px" src="https://github.com/ismailjosim/ismailjosim/blob/main/github.png">
   </a>
     <a style="margin-left: 10px;" target="_blank" href="https://ismailjosim.netlify.app/">
-     <img width="40px" src="./images/ux.png">
+     <img width="40px" src="https://github.com/ismailjosim/ismailjosim/blob/main/ux.png">
      </a>
     <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/ismail_josim">
-   <img width="40px" src="./images/twitter.png">
+   <img width="40px" src="https://github.com/ismailjosim/ismailjosim/blob/main/twitter.png">
    </a>
   <a style="margin-left: 10px;" target="_blank" href="https://www.facebook.com/ismailjosim99">
-   <img width="40px" src="./images/facebook.png" >
+   <img width="40px" src="https://github.com/ismailjosim/ismailjosim/blob/main/facebook.png" >
    </a>
   <a style="margin-left: 5px;" target="_blank" href="https://www.instagram.com/ismailjosim/">
-     <img width="40px" src="./images/instagram.png" >
+     <img width="40px" src="https://github.com/ismailjosim/ismailjosim/blob/main/instagram.png" >
      </a>
       </div>
 </p>
