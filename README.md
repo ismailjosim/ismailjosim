@@ -1,4 +1,4 @@
-[![ProfileBanner](https://i.ibb.co/3y2h9XW/Black-Modern-Blogger-You-Tube-Channel-Art.jpg)](https://ismailjosim.netlify.app/)
+[![ProfileBanner](https://github.com/ismailjosim/ismailjosim/blob/main/Black%20Modern%20Blogger%20YouTube%20Channel%20Art.jpg)](https://ismailjosim.netlify.app/)
 
 ### About me🧑
 
