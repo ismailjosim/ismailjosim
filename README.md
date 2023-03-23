@@ -47,10 +47,13 @@
 ## Skills: Backend Technologies <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"/>
 
  <a href="https://nodejs.org" target="_blank" >
- <img src="assets/node-js.svg" alt="nodejs" width="40" height="40"/>
+ <img src="assets/node-js.svg" alt="nodejs" width="50"/>
  </a> &nbsp;
 <a href="https://expressjs.com" target="_blank" >
-<img src="assets/express.svg" alt="express" width="45"/>
+<img src="assets/node-express.png" alt="express" width="50"/>
+</a>
+<a href="https://www.npmjs.com/" target="_blank" >
+<img src="assets/Npm-logo.svg" alt="express" width="50" />
 </a>
 
 ## Skills: Database <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"/>
