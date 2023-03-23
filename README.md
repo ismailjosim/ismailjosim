@@ -1,88 +1,119 @@
-[![ProfileBanner](https://github.com/ismailjosim/ismailjosim/blob/main/Black%20Modern%20Blogger%20YouTube%20Channel%20Art.jpg)](https://ismailjosim.netlify.app/)
+[![ProfileBanner](assets/github-banner.jpg)](https://ismailjosim.netlify.app/)
 
-### About me🧑
+# About me <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>
 
-- 💻 I am a Front-end developer with a keen knowledge of programming. <br/>
+- 🌟 Main languages: **JavaScript**
 
-- 📚 I'm passionate about learning new things and sharing with others. <br/>
+- 🖥️  See my portfolio at <a target="_blank"  href='https://ismailjosim.netlify.app/'>ismailjosim</a>
 
-- 🌱 Learning about Computer Vision and Machine Learning stuff <br/>
+- 🌱 I’m currently learning **Mongoose**
 
-- 🌟 Main languages: JavaScript <br/>
+- 👨‍💻 All of my projects are available at <a target="_blank"  href='https://ismailjosim.netlify.app/'>ismailjosim</a>
 
-- 🚩 Interested in Full Stack web development <br/>
+- 💬 Ask me about **React, Javascript, Frontend Technologies**
 
-- 💼 I’m currently open for an Intern or a new job opportunity
+- 🤝  I'm open to collaborating on interesting projects as a developer.
 
-<a target="_blank" align="center">
-<img align="center" height="300" width="400" alt="GIF" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif">
+- 💼 currently open for Intern/Full time Job.
+
+- 📫 How to reach me **ismailjosim@yahoo.com**
+
+## Skills: Frontend Technologies <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"/>
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
+<img src="assets/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> &nbsp;
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" ><img src="assets/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> &nbsp;
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" >
+ <img src="assets/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+ </a> &nbsp;
+
+<a href="https://getbootstrap.com/" target="_blank" >
+<img src="assets/bootstrap.svg" width="36" height="36" alt="React" />
+</a> &nbsp;<a href="https://tailwindcss.com/" target="_blank" >
+<img src="assets/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
+</a> &nbsp;<a href="https://mui.com/" target="_blank" >
+<img src="assets/material_ui.svg" width="36" height="36" alt="TailwindCSS" />
+</a> &nbsp;
+
+ <a href="https://reactjs.org/" target="_blank" >
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+ </a> <a href="https://nextjs.org/" target="_blank" >
+<img src="assets/nextjs-2.svg" alt="nextjs" width="45" height="45"/>
+</a> <a href="https://redux.js.org" target="_blank" >
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+ </a>
+
+## Skills: Backend Technologies <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"/>
+
+ <a href="https://nodejs.org" target="_blank" >
+ <img src="assets/node-js.svg" alt="nodejs" width="40" height="40"/>
+ </a> &nbsp;
+<a href="https://expressjs.com" target="_blank" >
+<img src="assets/express.svg" alt="express" width="45"/>
 </a>
 
-<h3 align="center" >
- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝
-</h3>
+## Skills: Database <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"/>
 
-<p align="center">
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/ismailjosim/">
-   <img src="https://github.com/ismailjosim/ismailjosim/blob/main/linkedin%20(1).png" width="40px">
-   </a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/ismailjosim">
-  <img width="40px" src="https://github.com/ismailjosim/ismailjosim/blob/main/github.png">
-  </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://ismailjosim.netlify.app/">
-     <img width="40px" src="https://github.com/ismailjosim/ismailjosim/blob/main/ux.png">
-     </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/ismail_josim">
-   <img width="40px" src="https://github.com/ismailjosim/ismailjosim/blob/main/twitter.png">
-   </a>
-  <a style="margin-left: 10px;" target="_blank" href="https://www.facebook.com/ismailjosim99">
-   <img width="40px" src="https://github.com/ismailjosim/ismailjosim/blob/main/facebook.png" >
-   </a>
-  <a style="margin-left: 5px;" target="_blank" href="https://www.instagram.com/ismailjosim/">
-     <img width="40px" src="https://github.com/ismailjosim/ismailjosim/blob/main/instagram.png" >
-     </a>
-      </div>
-</p>
-<br>
+<a href="https://www.mongodb.com/" target="_blank" >
+<img src="assets/mongodb.svg" alt="mongodb" width="40" height="40"/>
+</a><a href="https://mongoosejs.com/" target="_blank" >
+<img src="assets/mongoose.svg" alt="mongoosejs" width="40" height="40"/>
+</a><a href="https://vercel.com/" target="_blank" >
+<img src="assets/vercel.png" alt="vercel" width="40" height="40"/>
+</a>
 
-<p align="center">
-<img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills: Languages and Tools</b>
+## Tools
 
-## Frontend Development
+<p align="left">
+<a href="https://firebase.google.com/" target="_blank" >
+<img src="assets/firebase.svg" alt="firebase" width="40" height="40"/>
+</a><a href="https://git-scm.com/" target="_blank" >
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+<a href="https://heroku.com" target="_blank" >
+<img src="assets/netlify.png" alt="heroku" width="40"/>
+</a><a href="https://postman.com" target="_blank" >
+ <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+ </a>
 
-<code>
-<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-</code>
-<code>
-<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-</code>
-<code>
-<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-</code>
-<code>
-<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-</code>
- <br/>
- <br/>
- <br/>
+<a href="https://www.figma.com/" target="_blank" >
+<img src="assets/figma.svg" alt="figma" width="40" height="40"/>
+</a><a href="https://www.photoshop.com/en" target="_blank" >
+ <img src="assets/adobe-photoshop.svg" alt="photoshop" width="40" height="40"/>
+ </a><a href="https://www.sketch.com/" target="_blank" >
+ <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/>
+ </a><a href="https://www.adobe.com/products/xd.html" target="_blank" > <img src="assets/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
+
 </p>
 
-## Backend Development
+### Connect with me
 
-<code>
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-</code>
-<code>
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-</code>
-<code>
-<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png">
-</code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"></code>
+<p align="left">
+<a href="https://twitter.com/ismail_josim" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ismail_josim" height="30" width="40" />
+</a>
+<a href="https://linkedin.com/in/ismailjosim" target="blank">
+<img align="center" src="assets/linkedin.svg" alt="ismailjosim" height="30" width="40" />
+</a>
+<a href="https://fb.com/ismailjosim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ismailjosim" height="30" width="40" />
+</a>
+<a href="https://discord.gg/#6007" target="blank">
+<img align="center" src="assets/discord.svg" alt="#6007" height="30" width="40" />
+</a>
+</p>
+
+## Github Activity
+
 <br/>
-<br/>
-</details>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailjosim&show_icons=true&locale=en&layout=compact" alt="ismailjosim" /></p>
+
+<p>
+&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismailjosim&show_icons=true&locale=en" alt="ismailjosim" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismailjosim&" alt="ismailjosim" />
+</p>
