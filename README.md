@@ -14,7 +14,7 @@
 
 - 🤝  I'm open to collaborating on interesting projects as a developer.
 
-- 💼 currently open for Intern/Full time Job.
+- 💼 currently Work at <a target="_blank" href="https://www.programming-hero.com/">Programming Hero</a>.
 
 - 📫 How to reach me **ismailjosim@yahoo.com**
 
