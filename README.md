@@ -6,7 +6,7 @@
 
 - 🖥️  See my portfolio at <a target="_blank"  href='https://ismailjosim.netlify.app/'>ismailjosim</a>
 
-- 🌱 I’m currently learning **Mongoose**
+- 🌱 I’m currently learning **C Programming**
 
 - 👨‍💻 All of my projects are available at <a target="_blank"  href='https://ismailjosim.netlify.app/'>ismailjosim</a>
 
