@@ -6,7 +6,7 @@
 
 - 🖥️  See my portfolio at <a target="_blank"  href='https://ismailjosim.netlify.app/'>ismailjosim</a>
 
-- 🌱 I’m currently learning **C, C++ and Problem Solving**
+- 🌱 I’m currently learning **Basic Data Structure**
 
 - 👨‍💻 All of my projects are available at <a target="_blank"  href='https://ismailjosim.netlify.app/'>ismailjosim</a>
 
