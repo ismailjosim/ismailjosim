@@ -130,7 +130,9 @@
 
 ## 📊 GitHub Stats
 
-Here are some insights into my coding activity and languages:
+<div style="font-size: 18px; text-align: center;">
+  Here are some insights into my coding activity and languages:
+</div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailjosim&theme=tokyonight" alt="Top Languages" width="100%" />
 
