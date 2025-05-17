@@ -1,122 +1,128 @@
-[![ProfileBanner](assets/github-banner.jpg)](https://ismailjosim.netlify.app/)
+# Hi there 👋
 
-# About me <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>
+![Profile Banner](./assets/banner.png)
 
-- 🌟 Main languages: **JavaScript, C, C++, Python**
+## About Me 💡
 
-- 🖥️  See my portfolio at <a target="_blank"  href='https://ismailjosim.netlify.app/'>ismailjosim</a>
+- 🌱 Currently learning: **RDBMS**
+- 💼 Working as a **Senior Web Instructor** at Programming Hero
+- 📫 Reach me at: [ismailjosim@yahoo.com](mailto:ismailjosim@yahoo.com)
+- 🌐 Portfolio: [https://ismailjosim.netlify.app](https://ismailjosim.netlify.app)
+- 👨‍💻 Main languages: **JavaScript, C, C++, Python**
+- 🚀 Open to collaborating on **frontend projects and MERN stack applications**
 
-- 🌱 I’m currently learning **Basic Data Structure**
+---
 
-- 👨‍💻 All of my projects are available at <a target="_blank"  href='https://ismailjosim.netlify.app/'>ismailjosim</a>
+## 🛠️ Skills
 
-- 💬 Ask me about **React, Javascript, Frontend Technologies**
+### 🧱 Core Technologies
 
-- 🤝  I'm open to collaborating on interesting projects as a developer.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-- 💼 currently Work at <a target="_blank" href="https://www.programming-hero.com/">Programming Hero</a>.
+---
 
-- 📫 How to reach me **ismailjosim@yahoo.com**
+### 🔧 Development & Build Tools
 
-## Skills: Frontend Technologies <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"/>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-BD34FE?style=flat&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
-<img src="assets/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> &nbsp;
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" ><img src="assets/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> &nbsp;
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" >
- <img src="assets/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
- </a> &nbsp;
+---
 
-<a href="https://getbootstrap.com/" target="_blank" >
-<img src="assets/bootstrap.svg" width="36" height="36" alt="React" />
-</a> &nbsp;<a href="https://tailwindcss.com/" target="_blank" >
-<img src="assets/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-</a> &nbsp;<a href="https://mui.com/" target="_blank" >
-<img src="assets/material_ui.svg" width="36" height="36" alt="TailwindCSS" />
-</a> &nbsp;
+### 💅 Styling & UI Tools
 
- <a href="https://reactjs.org/" target="_blank" >
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
- </a> <a href="https://nextjs.org/" target="_blank" >
-<img src="assets/nextjs-2.svg" alt="nextjs" width="45" height="45"/>
-</a> <a href="https://redux.js.org" target="_blank" >
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
- </a>
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
+![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=flat&logo=postcss&logoColor=white)
+![Flowbite](https://img.shields.io/badge/Flowbite-3B82F6?style=flat&logo=flowbite&logoColor=white)
+![React Flowbite](https://img.shields.io/badge/React_Flowbite-61DAFB?style=flat&logo=react&logoColor=black)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-1DA1F2?style=flat&logo=daisyui&logoColor=white)
 
-## Skills: Backend Technologies <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"/>
+---
 
- <a href="https://nodejs.org" target="_blank" >
- <img src="assets/node-js.svg" alt="nodejs" width="50"/>
- </a> &nbsp;
-<a href="https://expressjs.com" target="_blank" >
-<img src="assets/node-express.png" alt="express" width="50"/>
-</a>
-<a href="https://www.npmjs.com/" target="_blank" >
-<img src="assets/Npm-logo.svg" alt="express" width="50" />
-</a>
+### ⚛️ JavaScript Frameworks & State Management
 
-## Skills: Database <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"/>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=flat&logo=react&logoColor=black)
 
-<a href="https://www.mongodb.com/" target="_blank" >
-<img src="assets/mongodb.svg" alt="mongodb" width="40" height="40"/>
-</a><a href="https://mongoosejs.com/" target="_blank" >
-<img src="assets/mongoose.svg" alt="mongoosejs" width="40" height="40"/>
-</a><a href="https://vercel.com/" target="_blank" >
-<img src="assets/vercel.png" alt="vercel" width="40" height="40"/>
-</a>
+---
 
-## Tools
+### 📱 Responsive Design
 
-<p align="left">
-<a href="https://firebase.google.com/" target="_blank" >
-<img src="assets/firebase.svg" alt="firebase" width="40" height="40"/>
-</a><a href="https://git-scm.com/" target="_blank" >
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-<a href="https://heroku.com" target="_blank" >
-<img src="assets/netlify.png" alt="heroku" width="40"/>
-</a><a href="https://postman.com" target="_blank" >
- <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
- </a>
+![FlexBox](https://img.shields.io/badge/Flexbox-FF5733?style=flat&logo=css3&logoColor=white)
+![CSS Grid](https://img.shields.io/badge/CSS_Grid-1572B6?style=flat&logo=css3&logoColor=white)
+![DevTools](https://img.shields.io/badge/DevTools-FF7139?style=flat&logo=google-chrome&logoColor=white)
 
-<a href="https://www.figma.com/" target="_blank" >
-<img src="assets/figma.svg" alt="figma" width="40" height="40"/>
-</a><a href="https://www.photoshop.com/en" target="_blank" >
- <img src="assets/adobe-photoshop.svg" alt="photoshop" width="40" height="40"/>
- </a><a href="https://www.sketch.com/" target="_blank" >
- <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/>
- </a><a href="https://www.adobe.com/products/xd.html" target="_blank" > <img src="assets/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
+---
 
-</p>
+### 🌐 Data & API Tools
 
-### Connect with me
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
 
-<p align="left">
-<a href="https://twitter.com/ismail_josim" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ismail_josim" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/in/ismailjosim" target="blank">
-<img align="center" src="assets/linkedin.svg" alt="ismailjosim" height="30" width="40" />
-</a>
-<a href="https://fb.com/ismailjosim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ismailjosim" height="30" width="40" />
-</a>
-<a href="https://discord.gg/#6007" target="blank">
-<img align="center" src="assets/discord.svg" alt="#6007" height="30" width="40" />
-</a>
-</p>
+---
 
-## Github Activity
+### 📦 Backend Technologies
 
-<br/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-3498DB?style=flat&logo=lock&logoColor=white)
+![CORS](https://img.shields.io/badge/CORS-FFA500?style=flat&logo=firefox&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailjosim&show_icons=true&locale=en&layout=compact" alt="ismailjosim" /></p>
+---
 
-<p>
-&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismailjosim&show_icons=true&locale=en" alt="ismailjosim" />
-</p>
+### 🛠️ Database
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismailjosim&" alt="ismailjosim" />
-</p>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongodb&logoColor=white)
+
+---
+
+### 📦 Version Control & Collaboration
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ismailjosim)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ismailjosim)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/jasim#6007) <!-- You might want to add your user ID separately here -->
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ismailjosim99)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ismailjosim/)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/ismail_josim)
+
+---
+
+🚀 **Looking to collaborate?** Feel free to reach out via [email](mailto:ismailjosim@yahoo.com) or connect with me on the platforms above!
+
+---
+
+## 📊 GitHub Stats
+
+Here are some insights into my coding activity and languages:
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailjosim&theme=tokyonight" alt="Top Languages" width="100%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ismailjosim&theme=tokyonight" alt="GitHub Streak" width="100%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=ismailjosim&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="100%" />
