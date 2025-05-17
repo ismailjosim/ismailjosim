@@ -1,6 +1,17 @@
 # Hi there 👋
 
-![Profile Banner](./assets/banner.png)
+<img
+  src="./assets/banner.png"
+  alt="Profile Banner"
+  style="
+    padding: 10px;
+    border: 5px solid transparent;
+    border-image: linear-gradient(to bottom, #113C4A, #5E2A50);
+    border-image-slice: 1;
+    border-image-repeat: stretch;
+    border-radius: 20px;
+  "
+/>
 
 ## About Me 💡
 
