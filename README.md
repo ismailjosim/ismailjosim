@@ -15,7 +15,7 @@
 
 ## About Me 💡
 
-- 🌱 Currently learning: **Full Stack Development [Backend]**
+- 🌱 Currently learning: **Prisma**
 - 💼 Working as a **Senior Web Instructor** at Programming Hero
 - 📫 Reach me at: [ismailjosim@yahoo.com](mailto:ismailjosim@yahoo.com)
 - 🌐 Portfolio: [https://ismailjosim.netlify.app](https://ismailjosim.netlify.app)
