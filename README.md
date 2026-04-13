@@ -18,7 +18,7 @@
 - 🌱 Currently learning: **Docker**
 - 💼 Working as a **Senior Web Instructor** at Programming Hero
 - 📫 Reach me at: [ismailjosim@yahoo.com](mailto:ismailjosim@yahoo.com)
-- 🌐 Portfolio: [https://ismailjosim.netlify.app](https://ismailjosim.netlify.app)
+- 🌐 Portfolio: [https://ismailjosim.vercel.app](https://ismailjosim.vercel.app)
 - 👨‍💻 Main languages: **JavaScript, C, C++, Python**
 - 🚀 Open to collaborating on **frontend projects and MERN stack applications**
 
