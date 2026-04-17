@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <img
-  src="./assets/banner.jpg"
+  src="./assets/banner.png"
   alt="Profile Banner"
   style="
     padding: 10px;
