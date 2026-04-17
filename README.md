@@ -123,3 +123,26 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ismailjosim)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ismailjosim)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/jasim#6007) <!-- You might want to add your user ID separately here -->
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ismailjosim99)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ismailjosim/)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/ismail_josim)
+
+🚀 **Looking to collaborate?** Feel free to reach out via [email](mailto:ismailjosim@yahoo.com) or connect with me on the platforms above!
+
+---
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailjosim&theme=tokyonight" alt="Top Languages" width="100%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ismailjosim&theme=tokyonight" alt="GitHub Streak" width="100%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=ismailjosim&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="100%" />
